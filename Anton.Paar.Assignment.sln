@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anton.Paar.Assignment", "Anton.Paar.Assignment\Anton.Paar.Assignment.csproj", "{B8C9D710-19D9-4AE0-A52A-91ABC2B0BF6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anton.Paar.Assignment.Tests", "Anton.Paar.Assignment.Tests\Anton.Paar.Assignment.Tests.csproj", "{EA4CC3C3-4090-4A6C-96A2-B69744294D88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43547368-0501-450A-B99B-CB7EB833B8C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C9D710-19D9-4AE0-A52A-91ABC2B0BF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C9D710-19D9-4AE0-A52A-91ABC2B0BF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C9D710-19D9-4AE0-A52A-91ABC2B0BF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C9D710-19D9-4AE0-A52A-91ABC2B0BF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4CC3C3-4090-4A6C-96A2-B69744294D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4CC3C3-4090-4A6C-96A2-B69744294D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4CC3C3-4090-4A6C-96A2-B69744294D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4CC3C3-4090-4A6C-96A2-B69744294D88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2191CBFE-C45C-4D5C-9E2B-146AF9AEE96A}
+	EndGlobalSection
+EndGlobal
